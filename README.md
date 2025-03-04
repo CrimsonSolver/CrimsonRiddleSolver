@@ -12,7 +12,7 @@ Puzzle Assistance:
 
 As you work through the difficult puzzles required to complete the quest, this mod provides hints and a more user-friendly approach to solving them, reducing frustration and speeding up your progress.
 
-Kudra Helper: 
+Kuudra Helper: 
 
 The mod includes a helpful tool called KuudraHelper, which assists you in understanding quest stages, tracking objectives, and ensuring you don’t miss any critical steps. This is particularly helpful when dealing with complex puzzle mechanics or when you're stuck at a specific quest milestone.
 
@@ -37,6 +37,8 @@ You can configure the mod in the Mods menu of your Minecraft launcher. Check you
 Commands:
 
 /crs - Opens the mod menu with a guide on how to use the mod effectively and make the most out of its features.
+![image](https://github.com/user-attachments/assets/47b922c4-461a-4617-b5b7-f5e76028ae49)
+
 
 
 
